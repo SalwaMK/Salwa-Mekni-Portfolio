@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Salwa-Mekni-Portfolio/static/css/main.2b971273.css",
+    "main.js": "/Salwa-Mekni-Portfolio/static/js/main.406d45c9.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Salwa-Mekni-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/pic_of_me_low_quality.jpg": "/Salwa-Mekni-Portfolio/static/media/pic_of_me_low_quality.91dacb99066097cca482.jpg",
+    "static/media/mic.jpeg": "/Salwa-Mekni-Portfolio/static/media/mic.7e3a8053d3733b6f2109.jpeg",
+    "index.html": "/Salwa-Mekni-Portfolio/index.html",
+    "main.2b971273.css.map": "/Salwa-Mekni-Portfolio/static/css/main.2b971273.css.map",
+    "main.406d45c9.js.map": "/Salwa-Mekni-Portfolio/static/js/main.406d45c9.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Salwa-Mekni-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b971273.css",
+    "static/js/main.406d45c9.js"
+  ]
+}
